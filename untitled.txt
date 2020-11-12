@@ -1,0 +1,7 @@
+https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/
+
+https://github.com/davisking/dlib-models/blob/master/shape_predictor_68_face_landmarks.dat.bz2
+
+https://towardsdatascience.com/real-time-eye-tracking-using-opencv-and-dlib-b504ca724ac6
+
+https://towardsdatascience.com/automating-online-proctoring-using-ai-e429086743c8
