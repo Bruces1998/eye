@@ -66,7 +66,7 @@ def process_thresh(thresh):
     return thresh
 
 def print_eye_pos(left, right):
-    if left == right:
+    if left == right and left!=0:
         if left == 1:
             print('Looking left')
         elif left == 2:
